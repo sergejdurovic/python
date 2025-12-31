@@ -34,3 +34,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# looks like i learned how to use git today
